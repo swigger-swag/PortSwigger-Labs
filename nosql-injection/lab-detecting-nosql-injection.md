@@ -23,8 +23,6 @@ Sec-Fetch-User: ?1
 Sec-Fetch-Dest: document
 Accept-Encoding: gzip, deflate, br
 Priority: u=0, i
-
-
 ```
 
 Manual Payload:
