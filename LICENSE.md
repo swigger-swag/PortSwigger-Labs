@@ -1,6 +1,6 @@
-BSD 3-Clause License
+## BSD 3-Clause License
 
-Copyright (c) 2026, PortSwigger STDNT
+Copyright (c) 2026, PortSwigger STDNT <byt3n33dl3@github.com>
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
