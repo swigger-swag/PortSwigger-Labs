@@ -41,6 +41,6 @@ Photos:
 
 <p align="center">
     <picture>
-        <img src="../photos/labs/cross-site-scripting/lab-reflected-xss-with-event-handlers-and-href-attributes-blocked.jpeg" alt="xss" width='100%'/>
+        <img src="../photos/labs/cross-site-scripting/lab-reflected-xss-with-event-handlers-and-href-attributes-blocked.jpeg" alt="xss" width="100%" style="max-width:none;"/>
     </picture>
 </p>

@@ -38,6 +38,6 @@ Photos:
 
 <p align="center">
     <picture>
-        <img src="../photos/labs/cross-site-scripting/lab-dom-xss-in-innerhtml-sink-using-source-location-search-evd-1.jpeg" alt="xss" width='200'/>
+        <img src="../photos/labs/cross-site-scripting/lab-dom-xss-in-innerhtml-sink-using-source-location-search-evd-1.jpeg" alt="xss" width="100%" style="max-width:none;"/>
     </picture>
 </p>
